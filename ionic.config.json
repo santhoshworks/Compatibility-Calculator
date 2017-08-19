@@ -1,5 +1,6 @@
 {
-  "name": "firstapp",
-  "app_id": "",
-  "type": "ionic-angular"
+  "name": "Love Compatibility Calculator",
+  "app_id": "a20a3431",
+  "type": "ionic-angular",
+  "integrations": {}
 }
